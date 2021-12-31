@@ -14,8 +14,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo-sm.svg',
   organizationName: 'ottomatica', // Usually your GitHub org/user name.
-  projectName: 'basicvm', // Usually your repo name.
-
+  projectName: 'basicvm.io', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
   presets: [
     [
       'classic',
