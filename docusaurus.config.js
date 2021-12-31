@@ -9,7 +9,7 @@ const config = {
   title: 'basic{VM}',
   tagline: 'Creating a VM has started to get unwieldy... let\'s start back at the "basics" 🛠',
   url: 'https://basicvm.io',
-  baseUrl: '/',
+  baseUrl: '/basicvm.io/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo-sm.svg',
