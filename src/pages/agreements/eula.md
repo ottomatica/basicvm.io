@@ -150,3 +150,8 @@ If you have any questions about this Agreement, You can contact Us:
 - By email: hello@ottomatica.io
 
 https://app.termsfeed.com/download/063a332e-311b-4fed-a92b-1b7436ef598a
+
+---
+
+## Third party open source Attributions
+All OSS atrributions are available [here](/attributions.txt).
