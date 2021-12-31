@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbasicvm=self.webpackChunkbasicvm||[]).push([[36],{3795:function(a){a.exports=JSON.parse('{"allTagsPath":"/basicvm.io/blog/tags","slug":"/basicvm.io/blog/tags/hola","name":"hola","count":1,"permalink":"/basicvm.io/blog/tags/hola"}')}}]);
