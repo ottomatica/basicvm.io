@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'basic{VM}',
   tagline: 'Creating a VM has started to get unwieldy... let\'s start back at the "basics" 🛠',
-  url: 'https://basicvm.io',
-  baseUrl: '/basicvm.io/',
+  url: 'https://basicvm.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo-sm.svg',
